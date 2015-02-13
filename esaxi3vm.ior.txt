@@ -1,0 +1,218 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+	new file:   RTT-Estimation/cn_lab/.c/1.c
+	new file:   RTT-Estimation/cn_lab/.c/try_client.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_jacob.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_jacob1.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_jacob2.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_jacob3.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_jacob4.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_karn.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_karn1.1.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_karn1.5.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_karn1.7.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_karn1.8.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_tcp.125.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_tcp.5.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_tcp.7.c
+	new file:   RTT-Estimation/cn_lab/.c/try_server_tcp.c
+	new file:   RTT-Estimation/cn_lab/.data/jacob1.data
+	new file:   RTT-Estimation/cn_lab/.data/jacob2.data
+	new file:   RTT-Estimation/cn_lab/.data/jacob3.data
+	new file:   RTT-Estimation/cn_lab/.data/jacob4.data
+	new file:   RTT-Estimation/cn_lab/.data/karn.data
+	new file:   RTT-Estimation/cn_lab/.data/karn1.1.data
+	new file:   RTT-Estimation/cn_lab/.data/karn1.5.data
+	new file:   RTT-Estimation/cn_lab/.data/karn1.7.data
+	new file:   RTT-Estimation/cn_lab/.data/karn1.8.data
+	new file:   RTT-Estimation/cn_lab/.data/tcp.125.data
+	new file:   RTT-Estimation/cn_lab/.data/tcp.5.data
+	new file:   RTT-Estimation/cn_lab/.data/tcp.7.data
+	new file:   RTT-Estimation/cn_lab/.data/tcp.data
+	new file:   RTT-Estimation/cn_lab/.txt/1.txt
+	new file:   RTT-Estimation/cn_lab/.txt/2.txt
+	new file:   RTT-Estimation/cn_lab/.txt/f1.txt
+	new file:   RTT-Estimation/cn_lab/.txt/jacob1.txt
+	new file:   RTT-Estimation/cn_lab/.txt/jacob2.txt
+	new file:   RTT-Estimation/cn_lab/.txt/jacob3.txt
+	new file:   RTT-Estimation/cn_lab/.txt/jacob4.txt
+	new file:   RTT-Estimation/cn_lab/.txt/karn.txt
+	new file:   RTT-Estimation/cn_lab/.txt/karn1.1.txt
+	new file:   RTT-Estimation/cn_lab/.txt/karn1.5.txt
+	new file:   RTT-Estimation/cn_lab/.txt/karn1.7.txt
+	new file:   RTT-Estimation/cn_lab/.txt/karn1.8.txt
+	new file:   RTT-Estimation/cn_lab/.txt/ping.txt
+	new file:   RTT-Estimation/cn_lab/.txt/tcp.125.txt
+	new file:   RTT-Estimation/cn_lab/.txt/tcp.5.txt
+	new file:   RTT-Estimation/cn_lab/.txt/tcp.7.txt
+	new file:   RTT-Estimation/cn_lab/.txt/tcp.txt
+	new file:   RTT-Estimation/cn_lab/a.out
+	new file:   RTT-Estimation/cn_lab/c files/client.c
+	new file:   RTT-Estimation/cn_lab/c files/server_jacob.c
+	new file:   RTT-Estimation/cn_lab/c files/server_jacob1.c
+	new file:   RTT-Estimation/cn_lab/c files/server_jacob2.c
+	new file:   RTT-Estimation/cn_lab/c files/server_jacob3.c
+	new file:   RTT-Estimation/cn_lab/c files/server_jacob4.c
+	new file:   RTT-Estimation/cn_lab/c files/server_karn.c
+	new file:   RTT-Estimation/cn_lab/c files/server_karn1.1.c
+	new file:   RTT-Estimation/cn_lab/c files/server_karn1.5.c
+	new file:   RTT-Estimation/cn_lab/c files/server_karn1.7.c
+	new file:   RTT-Estimation/cn_lab/c files/server_karn1.8.c
+	new file:   RTT-Estimation/cn_lab/c files/server_tcp.125.c
+	new file:   RTT-Estimation/cn_lab/c files/server_tcp.5.c
+	new file:   RTT-Estimation/cn_lab/c files/server_tcp.7.c
+	new file:   RTT-Estimation/cn_lab/c files/server_tcp.c
+	new file:   RTT-Estimation/cn_lab/data files/comparision_algorithm.m
+	new file:   RTT-Estimation/cn_lab/data files/comparision_jacob.m
+	new file:   RTT-Estimation/cn_lab/data files/comparision_karn.m
+	new file:   RTT-Estimation/cn_lab/data files/comparision_tcp.m
+	new file:   RTT-Estimation/cn_lab/data files/importfile.asv
+	new file:   RTT-Estimation/cn_lab/data files/importfile.m
+	new file:   RTT-Estimation/cn_lab/data files/jacob1.data
+	new file:   RTT-Estimation/cn_lab/data files/jacob2.data
+	new file:   RTT-Estimation/cn_lab/data files/jacob3.data
+	new file:   RTT-Estimation/cn_lab/data files/jacob4.data
+	new file:   RTT-Estimation/cn_lab/data files/karn.data
+	new file:   RTT-Estimation/cn_lab/data files/karn1.1.data
+	new file:   RTT-Estimation/cn_lab/data files/karn1.5.data
+	new file:   RTT-Estimation/cn_lab/data files/karn1.7.data
+	new file:   RTT-Estimation/cn_lab/data files/karn1.8.data
+	new file:   RTT-Estimation/cn_lab/data files/tcp.125.data
+	new file:   RTT-Estimation/cn_lab/data files/tcp.5.data
+	new file:   RTT-Estimation/cn_lab/data files/tcp.7.data
+	new file:   RTT-Estimation/cn_lab/data files/tcp.data
+	new file:   RTT-Estimation/cn_lab/graphs/algo_comparision.png
+	new file:   RTT-Estimation/cn_lab/graphs/jacob1.png
+	new file:   RTT-Estimation/cn_lab/graphs/jacob2.png
+	new file:   RTT-Estimation/cn_lab/graphs/jacob3.png
+	new file:   RTT-Estimation/cn_lab/graphs/jacob4.png
+	new file:   RTT-Estimation/cn_lab/graphs/jacob_comparision.png
+	new file:   RTT-Estimation/cn_lab/graphs/karn.png
+	new file:   RTT-Estimation/cn_lab/graphs/karn1.1.png
+	new file:   RTT-Estimation/cn_lab/graphs/karn1.5.png
+	new file:   RTT-Estimation/cn_lab/graphs/karn1.7.png
+	new file:   RTT-Estimation/cn_lab/graphs/karn1.8.png
+	new file:   RTT-Estimation/cn_lab/graphs/karn_comparision.png
+	new file:   RTT-Estimation/cn_lab/graphs/tcp.125.png
+	new file:   RTT-Estimation/cn_lab/graphs/tcp.5.png
+	new file:   RTT-Estimation/cn_lab/graphs/tcp.7.png
+	new file:   RTT-Estimation/cn_lab/graphs/tcp.png
+	new file:   RTT-Estimation/cn_lab/graphs/tcp_comparision.png
+	new file:   RTT-Estimation/cn_lab/matlab c files/jacob1_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/jacob2_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/jacob3_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/jacob4_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/jacob_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/karn1.1_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/karn1.5_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/karn1.7_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/karn1.8_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/karn_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/tcp.125_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/tcp.5_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/tcp.7_matlab.c
+	new file:   RTT-Estimation/cn_lab/matlab c files/tcp_matlab.c
+	new file:   RTT-Estimation/cn_lab/ping.txt
+	new file:   RTT-Estimation/cn_lab/text files/jacob1.txt
+	new file:   RTT-Estimation/cn_lab/text files/jacob2.txt
+	new file:   RTT-Estimation/cn_lab/text files/jacob3.txt
+	new file:   RTT-Estimation/cn_lab/text files/jacob4.txt
+	new file:   RTT-Estimation/cn_lab/text files/karn.txt
+	new file:   RTT-Estimation/cn_lab/text files/karn1.1.txt
+	new file:   RTT-Estimation/cn_lab/text files/karn1.5.txt
+	new file:   RTT-Estimation/cn_lab/text files/karn1.7.txt
+	new file:   RTT-Estimation/cn_lab/text files/karn1.8.txt
+	new file:   RTT-Estimation/cn_lab/text files/tcp.125.txt
+	new file:   RTT-Estimation/cn_lab/text files/tcp.5.txt
+	new file:   RTT-Estimation/cn_lab/text files/tcp.7.txt
+	new file:   RTT-Estimation/cn_lab/text files/tcp.txt
+	new file:   RTT-Estimation/cn_server_room/a.out
+	new file:   RTT-Estimation/cn_server_room/c files/a.out
+	new file:   RTT-Estimation/cn_server_room/c files/server_jacob.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_jacob1.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_jacob2.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_jacob3.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_jacob4.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_karn.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_karn1.1.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_karn1.5.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_karn1.7.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_karn1.8.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_tcp.125.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_tcp.5.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_tcp.7.c
+	new file:   RTT-Estimation/cn_server_room/c files/server_tcp.c
+	new file:   RTT-Estimation/cn_server_room/data files/comparision_algorithm.m
+	new file:   RTT-Estimation/cn_server_room/data files/comparision_jacob.m
+	new file:   RTT-Estimation/cn_server_room/data files/comparision_karn.m
+	new file:   RTT-Estimation/cn_server_room/data files/comparision_tcp.m
+	new file:   RTT-Estimation/cn_server_room/data files/importfile.asv
+	new file:   RTT-Estimation/cn_server_room/data files/importfile.m
+	new file:   RTT-Estimation/cn_server_room/data files/jacob.data
+	new file:   RTT-Estimation/cn_server_room/data files/jacob1.data
+	new file:   RTT-Estimation/cn_server_room/data files/jacob2.data
+	new file:   RTT-Estimation/cn_server_room/data files/jacob3.data
+	new file:   RTT-Estimation/cn_server_room/data files/jacob4.data
+	new file:   RTT-Estimation/cn_server_room/data files/karn.data
+	new file:   RTT-Estimation/cn_server_room/data files/karn1.1.data
+	new file:   RTT-Estimation/cn_server_room/data files/karn1.5.data
+	new file:   RTT-Estimation/cn_server_room/data files/karn1.7.data
+	new file:   RTT-Estimation/cn_server_room/data files/karn1.8.data
+	new file:   RTT-Estimation/cn_server_room/data files/tcp.125.data
+	new file:   RTT-Estimation/cn_server_room/data files/tcp.5.data
+	new file:   RTT-Estimation/cn_server_room/data files/tcp.7.data
+	new file:   RTT-Estimation/cn_server_room/data files/tcp.data
+	new file:   RTT-Estimation/cn_server_room/graphs/algo_comparision.png
+	new file:   RTT-Estimation/cn_server_room/graphs/jacob.png
+	new file:   RTT-Estimation/cn_server_room/graphs/jacob1.png
+	new file:   RTT-Estimation/cn_server_room/graphs/jacob2.png
+	new file:   RTT-Estimation/cn_server_room/graphs/jacob3.png
+	new file:   RTT-Estimation/cn_server_room/graphs/jacob4.png
+	new file:   RTT-Estimation/cn_server_room/graphs/jacob_comparision.png
+	new file:   RTT-Estimation/cn_server_room/graphs/karn.png
+	new file:   RTT-Estimation/cn_server_room/graphs/karn1.1.png
+	new file:   RTT-Estimation/cn_server_room/graphs/karn1.5.png
+	new file:   RTT-Estimation/cn_server_room/graphs/karn1.7.png
+	new file:   RTT-Estimation/cn_server_room/graphs/karn1.8.png
+	new file:   RTT-Estimation/cn_server_room/graphs/karn_comparision.png
+	new file:   RTT-Estimation/cn_server_room/graphs/tcp.125.png
+	new file:   RTT-Estimation/cn_server_room/graphs/tcp.5.png
+	new file:   RTT-Estimation/cn_server_room/graphs/tcp.7.png
+	new file:   RTT-Estimation/cn_server_room/graphs/tcp.png
+	new file:   RTT-Estimation/cn_server_room/graphs/tcp_comparision.png
+	new file:   RTT-Estimation/cn_server_room/matlab c files/a.out
+	new file:   RTT-Estimation/cn_server_room/matlab c files/jacob1_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/jacob2_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/jacob3_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/jacob4_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/jacob_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/karn1.1_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/karn1.5_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/karn1.7_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/karn1.8_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/karn_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/tcp.125_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/tcp.5_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/tcp.7_matlab.c
+	new file:   RTT-Estimation/cn_server_room/matlab c files/tcp_matlab.c
+	new file:   RTT-Estimation/cn_server_room/ping.txt
+	new file:   RTT-Estimation/cn_server_room/routers.txt
+	new file:   RTT-Estimation/cn_server_room/text files/jacob.txt
+	new file:   RTT-Estimation/cn_server_room/text files/jacob1.txt
+	new file:   RTT-Estimation/cn_server_room/text files/jacob2.txt
+	new file:   RTT-Estimation/cn_server_room/text files/jacob3.txt
+	new file:   RTT-Estimation/cn_server_room/text files/jacob4.txt
+	new file:   RTT-Estimation/cn_server_room/text files/karn.txt
+	new file:   RTT-Estimation/cn_server_room/text files/karn1.1.txt
+	new file:   RTT-Estimation/cn_server_room/text files/karn1.5.txt
+	new file:   RTT-Estimation/cn_server_room/text files/karn1.7.txt
+	new file:   RTT-Estimation/cn_server_room/text files/karn1.8.txt
+	new file:   RTT-Estimation/cn_server_room/text files/tcp.125.txt
+	new file:   RTT-Estimation/cn_server_room/text files/tcp.5.txt
+	new file:   RTT-Estimation/cn_server_room/text files/tcp.7.txt
+	new file:   RTT-Estimation/cn_server_room/text files/tcp.txt
