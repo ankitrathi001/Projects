@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Hotels.xsl"?>
+<Hotels>
+  <Hotel>
+    <Name>Hyatt Place</Name>
+    <Contact>
+      <Phone>4808995900</Phone>
+      <Email>support@hyatt.com</Email>
+    </Contact>
+    <Address BusLines="12, 103, 245">
+      <Number>3275</Number>
+      <Street>S Market St</Street>
+      <City>Gilbert</City>
+      <Zip>85297</Zip>
+    </Address>
+  </Hotel>
+</Hotels>

@@ -1,0 +1,6 @@
+c:\users\anshul\documents\visual studio 2013\Projects\TemperatureConversion\TemperatureConversionTryIt\bin\TemperatureConversionTryIt.dll.config
+c:\users\anshul\documents\visual studio 2013\Projects\TemperatureConversion\TemperatureConversionTryIt\bin\TemperatureConversionTryIt.dll
+c:\users\anshul\documents\visual studio 2013\Projects\TemperatureConversion\TemperatureConversionTryIt\bin\TemperatureConversionTryIt.pdb
+c:\users\anshul\documents\visual studio 2013\Projects\TemperatureConversion\TemperatureConversionTryIt\obj\Release\TemperatureConversionTryIt.csprojResolveAssemblyReference.cache
+c:\users\anshul\documents\visual studio 2013\Projects\TemperatureConversion\TemperatureConversionTryIt\obj\Release\TemperatureConversionTryIt.dll
+c:\users\anshul\documents\visual studio 2013\Projects\TemperatureConversion\TemperatureConversionTryIt\obj\Release\TemperatureConversionTryIt.pdb

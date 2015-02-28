@@ -1,0 +1,6 @@
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Banking\BankingTryIt\bin\BankingTryIt.dll.config
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Banking\BankingTryIt\bin\BankingTryIt.dll
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Banking\BankingTryIt\bin\BankingTryIt.pdb
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Banking\BankingTryIt\obj\Release\BankingTryIt.dll
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Banking\BankingTryIt\obj\Release\BankingTryIt.pdb
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Banking\BankingTryIt\obj\Release\BankingTryIt.csprojResolveAssemblyReference.cache

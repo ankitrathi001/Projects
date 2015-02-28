@@ -1,0 +1,12 @@
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRatingTryIt\bin\SortByRatingTryIt.dll.config
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRatingTryIt\bin\SortByRatingTryIt.dll
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRatingTryIt\bin\SortByRatingTryIt.pdb
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRatingTryIt\obj\Debug\SortByRatingTryIt.csprojResolveAssemblyReference.cache
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRatingTryIt\obj\Debug\SortByRatingTryIt.dll
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRatingTryIt\obj\Debug\SortByRatingTryIt.pdb
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\SortByRating\SortByRatingTryIt\bin\SortByRatingTryIt.dll.config
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\SortByRating\SortByRatingTryIt\bin\SortByRatingTryIt.dll
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\SortByRating\SortByRatingTryIt\bin\SortByRatingTryIt.pdb
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\SortByRating\SortByRatingTryIt\obj\Debug\SortByRatingTryIt.csprojResolveAssemblyReference.cache
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\SortByRating\SortByRatingTryIt\obj\Debug\SortByRatingTryIt.dll
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\SortByRating\SortByRatingTryIt\obj\Debug\SortByRatingTryIt.pdb

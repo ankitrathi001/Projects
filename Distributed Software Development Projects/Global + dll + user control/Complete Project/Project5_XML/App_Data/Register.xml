@@ -1,0 +1,37 @@
+<root>
+  <User>
+    <Name>TA</Name>
+    <Email>TA@asu.edu</Email>
+    <Uname>TA</Uname>
+  </User>
+  <User>
+    <Name>Anshul Jain</Name>
+    <Email>anshul.jain1207@gmail.com</Email>
+    <Uname>anshul</Uname>
+  </User>
+  <User>
+    <Name>Surya Vamsi Kopella</Name>
+    <Email>surya@asu.edu</Email>
+    <Uname>surya</Uname>
+  </User>
+  <User>
+    <Name>Shweta</Name>
+    <Email>shweta@asu.edu</Email>
+    <Uname>shweta</Uname>
+  </User>
+  <User>
+    <Name>chaitu</Name>
+    <Email>chaitu@gmail.com</Email>
+    <Uname>chaitu</Uname>
+  </User>
+  <User>
+    <Name>ravi</Name>
+    <Email>ravi@gmail.com</Email>
+    <Uname>ravi</Uname>
+  </User>
+  <User>
+    <Name>sravani</Name>
+    <Email>sravani@gmail.com</Email>
+    <Uname>sravani</Uname>
+  </User>
+</root>

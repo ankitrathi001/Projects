@@ -1,0 +1,5 @@
+c:\users\anshul\documents\visual studio 2013\Projects\Hotels\Hotels\bin\Hotels.dll.config
+c:\users\anshul\documents\visual studio 2013\Projects\Hotels\Hotels\bin\Hotels.dll
+c:\users\anshul\documents\visual studio 2013\Projects\Hotels\Hotels\bin\Hotels.pdb
+c:\users\anshul\documents\visual studio 2013\Projects\Hotels\Hotels\obj\Release\Hotels.dll
+c:\users\anshul\documents\visual studio 2013\Projects\Hotels\Hotels\obj\Release\Hotels.pdb

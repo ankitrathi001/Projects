@@ -1,0 +1,6 @@
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\CrimeData\TotalCrimeTryIt\bin\TotalCrimeTryIt.dll.config
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\CrimeData\TotalCrimeTryIt\bin\TotalCrimeTryIt.dll
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\CrimeData\TotalCrimeTryIt\bin\TotalCrimeTryIt.pdb
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\CrimeData\TotalCrimeTryIt\obj\Debug\TotalCrimeTryIt.csprojResolveAssemblyReference.cache
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\CrimeData\TotalCrimeTryIt\obj\Debug\TotalCrimeTryIt.dll
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\CrimeData\TotalCrimeTryIt\obj\Debug\TotalCrimeTryIt.pdb

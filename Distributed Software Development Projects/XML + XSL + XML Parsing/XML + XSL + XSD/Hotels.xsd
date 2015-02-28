@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.public.asu.edu/~ajain89/DSOD_Assignment4/Hotels.xml" xmlns:tns="http://www.public.asu.edu/~ajain89/DSOD_Assignment4/Hotels.xml" elementFormDefault="qualified">
+
+    <element name="Hotels" type="tns:Hotels"></element>
+    
+    <complexType name="Hotels">
+    	<sequence>
+    		<element name="Hotel" type="tns:Hotel" maxOccurs="unbounded" minOccurs="1"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="Hotel">
+    	<sequence>
+    		<element name="Name" type="string"></element>
+    		<element name="Contact" type="tns:Contact"></element>
+    		<element name="Address" type="tns:Address"></element>
+    	</sequence>
+    	<attribute name="Stars" type="string" use="required"></attribute>
+    </complexType>
+    
+    <complexType name="Contact">
+    	<sequence>
+    		<element name="Phone" type="string"></element>
+    		<element name="Email" type="string"></element>
+    	</sequence>
+    </complexType>
+
+    <complexType name="Address">
+    	<sequence>
+    		<element name="Number" type="integer"></element>
+    		<element name="Street" type="string"></element>
+    		<element name="City" type="string"></element>
+    		<element name="Zip" type="integer"></element>
+    	</sequence>
+    	<attribute name="BusLines" type="string"></attribute>
+    </complexType>
+</schema>

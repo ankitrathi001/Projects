@@ -1,0 +1,37 @@
+<root>
+  <User>
+    <Uname>TA</Uname>
+    <Password>8aae3ea1fec726b8767afe947a68e192</Password>
+    <Role>Admin</Role>
+  </User>
+  <User>
+    <Uname>anshul</Uname>
+    <Password>240bc306d1a19916d636f3d614e03024</Password>
+    <Role>Manager</Role>
+  </User>
+  <User>
+    <Uname>surya</Uname>
+    <Password>aff8fbcbf1363cd7edc85a1e11391173</Password>
+    <Role>Staff</Role>
+  </User>
+  <User>
+    <Uname>shweta</Uname>
+    <Password>4207e1e6e3809688a8b9ed1b2c1b7faa</Password>
+    <Role>Member</Role>
+  </User>
+  <User>
+    <Uname>chaitu</Uname>
+    <Password>63c4fd91cf4121bc58456784e41de4d1</Password>
+    <Role>Member</Role>
+  </User>
+  <User>
+    <Uname>ravi</Uname>
+    <Password>63dd3e154ca6d948fc380fa576343ba6</Password>
+    <Role>Member</Role>
+  </User>
+  <User>
+    <Uname>sravani</Uname>
+    <Password>757660a9df57c03359acdc5b3b0dbec7</Password>
+    <Role>Manager</Role>
+  </User>
+</root>

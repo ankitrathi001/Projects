@@ -1,0 +1,6 @@
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRating\obj\Debug\SortByRating.csprojResolveAssemblyReference.cache
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRating\bin\SortByRating.dll.config
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRating\bin\SortByRating.dll
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRating\bin\SortByRating.pdb
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRating\obj\Debug\SortByRating.dll
+c:\users\anshul\documents\visual studio 2013\Projects\SortByRating\SortByRating\obj\Debug\SortByRating.pdb

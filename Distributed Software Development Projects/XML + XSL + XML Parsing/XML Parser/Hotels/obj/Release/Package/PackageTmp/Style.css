@@ -1,0 +1,14 @@
+﻿body {
+}
+.element{
+	color: black;
+    display: inline-block;
+}
+.attribute{
+	color: red;
+    display: inline-block;
+}
+.value{
+	color: blue;
+    display: inline-block;
+}

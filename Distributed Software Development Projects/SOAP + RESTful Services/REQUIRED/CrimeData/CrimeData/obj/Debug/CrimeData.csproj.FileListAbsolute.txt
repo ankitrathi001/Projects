@@ -1,0 +1,6 @@
+c:\users\anshul\documents\visual studio 2013\Projects\CrimeData\CrimeData\bin\CrimeData.dll.config
+c:\users\anshul\documents\visual studio 2013\Projects\CrimeData\CrimeData\bin\CrimeData.dll
+c:\users\anshul\documents\visual studio 2013\Projects\CrimeData\CrimeData\bin\CrimeData.pdb
+c:\users\anshul\documents\visual studio 2013\Projects\CrimeData\CrimeData\obj\Debug\CrimeData.csprojResolveAssemblyReference.cache
+c:\users\anshul\documents\visual studio 2013\Projects\CrimeData\CrimeData\obj\Debug\CrimeData.dll
+c:\users\anshul\documents\visual studio 2013\Projects\CrimeData\CrimeData\obj\Debug\CrimeData.pdb

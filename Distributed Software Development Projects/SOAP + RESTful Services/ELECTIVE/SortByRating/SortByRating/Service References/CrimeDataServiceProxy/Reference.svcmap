@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f7b7f439-ef0f-4a61-bdc0-3f58ede368e5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://webstrar42.fulton.asu.edu/Page3/CrimeDataService.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CrimeDataService.xsd" MetadataType="Schema" ID="c18035a4-84a9-4ded-af84-a9ccd6dd9028" SourceId="1" SourceUrl="http://webstrar42.fulton.asu.edu/Page3/CrimeDataService.svc?xsd=xsd0" />
+    <MetadataFile FileName="CrimeDataService.wsdl" MetadataType="Wsdl" ID="040dbf25-8395-442e-9467-d544356012b9" SourceId="1" SourceUrl="http://webstrar42.fulton.asu.edu/Page3/CrimeDataService.svc?wsdl" />
+    <MetadataFile FileName="CrimeDataService1.xsd" MetadataType="Schema" ID="9db3de72-c074-4971-a2fe-d75661005165" SourceId="1" SourceUrl="http://webstrar42.fulton.asu.edu/Page3/CrimeDataService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

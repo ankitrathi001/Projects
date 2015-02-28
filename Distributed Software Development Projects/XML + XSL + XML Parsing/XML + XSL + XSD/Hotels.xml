@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Hotels.xsl"?>
+<Hotels xmlns:tns="http://www.public.asu.edu/~ajain89/DSOD_Assignment4/Hotels.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.public.asu.edu/~ajain89/DSOD_Assignment4/Hotels.xsd ">
+  <Hotel Stars="***">
+    <Name>Hyatt Place</Name>
+    <Contact>
+      <Phone>4808995900</Phone>
+      <Email>support@hyatt.com</Email>
+    </Contact>
+    <Address BusLines="12, 103, 245">
+      <Number>3275</Number>
+      <Street>S Market St</Street>
+      <City>Gilbert</City>
+      <Zip>85297</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name>DoubleTree by Hilton</Name>
+    <Contact>
+      <Phone>4809671441</Phone>
+      <Email>support@hilton.com</Email>
+    </Contact>
+    <Address>
+      <Number>2100</Number>
+      <Street>S Priest Dr</Street>
+      <City>Tempe</City>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="****">
+    <Name>Marriott</Name>
+    <Contact>
+      <Phone>6022259000</Phone>
+      <Email>support@marriott.com</Email>
+    </Contact>
+    <Address>
+      <Number>2000</Number>
+      <Street>W Westcourt Way</Street>
+      <City>Tempe</City>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="****">
+    <Name>Mission Palms</Name>
+    <Contact>
+      <Phone>4808941400</Phone>
+      <Email>support@missionpalms.com</Email>
+    </Contact>
+    <Address BusLines="72, 123">
+      <Number>60</Number>
+      <Street>E 5th St</Street>
+      <City>Tempe</City>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name>3 Palms</Name>
+    <Contact>
+      <Phone>4809411202</Phone>
+      <Email>support@scottsdale-resort-hotels.com</Email>
+    </Contact>
+    <Address BusLines="56, 72">
+      <Number>7707</Number>
+      <Street>E McDowell Rd</Street>
+      <City>Scottsdale</City>
+      <Zip>85257</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="***">
+    <Name>Hospitality Suite Resort</Name>
+    <Contact>
+      <Phone>4809495115</Phone>
+      <Email>support@hospitalitysuites.com</Email>
+    </Contact>
+    <Address BusLines="56, 72, 103, 245">
+      <Number>409</Number>
+      <Street>N Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <Zip>85257</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="**">
+    <Name>Red Roof Inn</Name>
+    <Contact>
+      <Phone>4804493205</Phone>
+      <Email>support@redroof.com</Email>
+    </Contact>
+    <Address>
+      <Number>2135</Number>
+      <Street>W 15th St</Street>
+      <City>Tempe</City>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="****">
+    <Name>Arizona Grand Resort</Name>
+    <Contact>
+      <Phone>6024389000</Phone>
+      <Email>support@arizonagrandresort.com</Email>
+    </Contact>
+    <Address BusLines="12, 103, 245">
+      <Number>8000</Number>
+      <Street>Arizona Grand Pkwy</Street>
+      <City>Phoenix</City>
+      <Zip>85044</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="**">
+    <Name>Ramada</Name>
+    <Contact>
+      <Phone>4804131188</Phone>
+      <Email>support@ramada.com</Email>
+    </Contact>
+    <Address>
+      <Number>1701</Number>
+      <Street>W Baseline Rd</Street>
+      <City>Tempe</City>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Stars="*">
+    <Name>University Inn and Suites</Name>
+    <Contact>
+      <Phone>4809667221</Phone>
+      <Email>support@universityinntempe.com</Email>
+    </Contact>
+    <Address BusLines="45, 56">
+      <Number>902</Number>
+      <Street>S Mill Ave</Street>
+      <City>Tempe</City>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+</Hotels>

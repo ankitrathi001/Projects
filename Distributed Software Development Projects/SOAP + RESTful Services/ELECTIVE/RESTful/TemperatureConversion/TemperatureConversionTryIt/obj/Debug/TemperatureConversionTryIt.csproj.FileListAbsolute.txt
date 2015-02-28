@@ -1,0 +1,6 @@
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\RESTful\TemperatureConversion\TemperatureConversionTryIt\bin\TemperatureConversionTryIt.dll.config
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\RESTful\TemperatureConversion\TemperatureConversionTryIt\bin\TemperatureConversionTryIt.dll
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\RESTful\TemperatureConversion\TemperatureConversionTryIt\bin\TemperatureConversionTryIt.pdb
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\RESTful\TemperatureConversion\TemperatureConversionTryIt\obj\Debug\TemperatureConversionTryIt.csprojResolveAssemblyReference.cache
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\RESTful\TemperatureConversion\TemperatureConversionTryIt\obj\Debug\TemperatureConversionTryIt.dll
+C:\Users\Anshul\Documents\Visual Studio 2013\Projects\Assignment3\ELECTIVE\RESTful\TemperatureConversion\TemperatureConversionTryIt\obj\Debug\TemperatureConversionTryIt.pdb

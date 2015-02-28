@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="dd428b96-7bd5-4da7-b8de-ddaaca20d3ce" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51783/sortByCrimeDataService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="sortByCrimeDataService.xsd" MetadataType="Schema" ID="634f2588-c1ee-4d34-a516-d9fd07ebf008" SourceId="1" SourceUrl="http://localhost:51783/sortByCrimeDataService.svc?xsd=xsd1" />
+    <MetadataFile FileName="sortByCrimeDataService1.xsd" MetadataType="Schema" ID="cb6caff1-08e0-4243-b759-c0ae48b6e460" SourceId="1" SourceUrl="http://localhost:51783/sortByCrimeDataService.svc?xsd=xsd2" />
+    <MetadataFile FileName="sortByRatingService.wsdl" MetadataType="Wsdl" ID="051f2e0c-dc57-408f-9b69-753a0efca536" SourceId="1" SourceUrl="http://localhost:51783/sortByCrimeDataService.svc?wsdl" />
+    <MetadataFile FileName="sortByCrimeDataService2.xsd" MetadataType="Schema" ID="c8072c11-980e-47bb-bb6f-0f4a515dce6b" SourceId="1" SourceUrl="http://localhost:51783/sortByCrimeDataService.svc?xsd=xsd0" />
+    <MetadataFile FileName="sortByCrimeDataService.disco" MetadataType="Disco" ID="430b9aec-8a98-4300-b0aa-738dbe1e7fdd" SourceId="1" SourceUrl="http://localhost:51783/sortByCrimeDataService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

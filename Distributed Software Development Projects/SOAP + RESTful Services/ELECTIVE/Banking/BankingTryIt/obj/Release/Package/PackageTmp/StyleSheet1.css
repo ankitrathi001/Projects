@@ -1,0 +1,24 @@
+﻿body {
+}
+div{
+
+}
+.Error{
+
+}
+.Label{
+    display:inline-block;
+    width: 150px;
+    padding: 10px;
+}
+.TextBox{
+    display:inline-block;
+    width: 200px;
+    padding: 10px;
+}
+.Button{
+    padding: 5px;
+}
+.success{
+    padding:5px;
+}

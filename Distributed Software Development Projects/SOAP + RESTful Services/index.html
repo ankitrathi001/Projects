@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Team Titans: Project 3</title>
+    <link rel="stylesheet" href="Content/StyleSheet1.css" />
+    <meta name="viewport" content="width=device-width">
+</head>
+<body>
+	<h2 style="text-align:center;">Team Titans: Project 3</h2>
+	<table border="1" style="border:solid">
+		<tr style="background-color:#ffce76;"><th colspan="5" style="padding:10px; text-align:center">This page is deployed at: <a href="http://webstrar42.fulton.asu.edu">http://webstrar42.fulton.asu.edu/index.html</a></th></tr>
+        <tr style="background-color: #ffce76;"><th colspan="5" style="padding:10px; text-align:center">This project is developed by: <a href="http://webstrar42.fulton.asu.edu/page1">Anshul Jain (ajain89@asu.edu)</a>, Surya Vamsi Koppella, Sai Kishore Petla</th></tr>
+        <tr style="background-color:ButtonFace">
+            <th>Provider name</th>
+            <th>Service name, with input and output types</th>
+            <th>TryIt link</th>
+            <th>Service description</th>
+            <th>Actual resources used to implement the service</th>
+        </tr>
+		<tr>
+			<td><a href="http://webstrar42.fulton.asu.edu/page1">Anshul Jain</a></td>
+			<td>Banking Service (ELECTIVE)<br />This service contains 4 functions:<br />
+				<b>Operation:</b> LoginVerification<br />
+				<b>Input:</b> string UserName, string Password<br />
+				<b>Output:</b> bool VerificationResult<br />
+
+				<b>Operation:</b> getTransactionHistory<br />
+				<b>Input:</b> string UserName<br />
+				<b>Output:</b> string[] TransactionHistory<br />
+
+				<b>Operation:</b> processTransaction<br />
+				<b>Input:</b> string UserName, string CardNumber, string CVV, string ExpMonth, string ExpYear, string Amount<br />
+				<b>Output:</b> string success/error_Message<br />
+
+				<b>Operation:</b> Registration<br />
+				<b>Input:</b> string FirstName, string LastName, string Email, string Password, string Amount<br />	
+				<b>Output:</b> string[] CardDetails
+			</td>
+			<td><a href="http://webstrar42.fulton.asu.edu/page1/Main.aspx">TryIt</a></td>
+			<td>This service can be used for registering a user and processing transactions</td>
+			<td>Use of Session State and XML file to store data</td>
+		</tr>
+        <tr>
+            <td><a href="http://webstrar42.fulton.asu.edu/page1">Anshul Jain</a></td>
+            <td>
+                SortByCrimeData Service (ELECTIVE)
+                <br /><b>Operation:</b> sortCitiesByCrimeRate
+                <br /><b>Input:</b> string cities
+                <br /><b>Output:</b> string[] SortedListOfCities 
+            </td>
+            <td><a href="http://webstrar42.fulton.asu.edu/page1/SortByCrimeDataTryIt.aspx">TryIt</a></td>
+            <td>This service is used to sort the cities on the basis of Total Crimes</td>
+            <td>Used the crime data service: <a href="http://webstrar42.fulton.asu.edu/Page3/CrimeDataService.svc?wsdl ">http://webstrar42.fulton.asu.edu/Page3/CrimeDataService.svc?wsdl </a>
+                and <a href="https://developers.google.com/maps/documentation/geocoding/">The Google Geocoding API</a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://webstrar42.fulton.asu.edu/page1">Anshul Jain</a></td>
+            <td>TemperatureConversion Service (ELECTIVE, RESTFUL)
+                <br /><b>URL:</b> http://webstrar42.fulton.asu.edu/page2/TemperatureConversionService.svc/f2c?f=92"
+                <br /><b>URL:</b> http://webstrar42.fulton.asu.edu/page2/TemperatureConversionService.svc/c2f?c=34"
+            </td>
+            <td><a href="http://webstrar42.fulton.asu.edu/page1/TemperatureConversionTryIt.aspx">TryIt</a></td>
+            <td>This is a restful service to convert temperature</td>
+            <td>Used the mathematical equations to convert temperature</td>
+        </tr>
+		<tr>
+			<td><a href="http://webstrar42.fulton.asu.edu/page1">Anshul Jain</a></td>
+			<td>CrimeData Service (REQUIRED)<br />
+				This service contains the following 2 functions:<br />
+				<b>Operation:</b> getCrimeData<br />
+				<b>Input:</b> string latitude, string longitude<br />
+				<b>Output:</b> string CrimeData<br />
+				<b>Operation:</b> getTotalCrimes<br />
+				<b>Input:</b> string latitude, string longitude<br />
+				<b>Output:</b> int TotalCrime<br />
+			</td>
+			<td><a href="http://webstrar42.fulton.asu.edu/page1/CrimeDataTryIt.aspx">TryIt</a></td>
+			<td>This service can be used to get the crime data for a given latitude and longitude value</td>
+			<td>Retrieve information from <a href="https://azure.geodataservice.net/GeoDataService.svc/">https://azure.geodataservice.net/GeoDataService.svc/</a>
+                and <a href="https://developers.google.com/maps/documentation/geocoding/">The Google Geocoding API</a>
+            </td>
+		</tr>
+		<tr>
+			<td><a href="http://webstrar42.fulton.asu.edu/page1">Anshul Jain</a></td>
+			<td>WeatherUpdate Service (REQUIRED)</td>
+			<td><a href="http://webstrar42.fulton.asu.edu/page1/WeatherServiceTryIt.aspx">TryIt</a></td>
+			<td>This service can be used to get the current weather condition and weather forcast for next 5 days</td>
+			<td>Retrieve information from <a href="https://query.yahooapis.com/v1/public/">https://query.yahooapis.com/v1/public/</a> using YQL</td>
+		</tr>
+        <tr>
+            <td><a href="http://webstrar42.fulton.asu.edu/page4">Surya Vamsi Kopella</a></td>
+            <td></td>
+            <td><a href="http://webstrar42.fulton.asu.edu/">TryIt</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+	</table>
+</body

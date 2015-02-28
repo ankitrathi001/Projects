@@ -1,0 +1,10 @@
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AccountDetails>
+    <Email>anshul.jain1207@gmail.com</Email>
+    <CardNumber>3594295086871983</CardNumber>
+    <CVV>359</CVV>
+    <ExpMonth>10</ExpMonth>
+    <ExpYear>2016</ExpYear>
+    <Amount>1177</Amount>
+  </AccountDetails>
+</root>

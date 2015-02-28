@@ -1,0 +1,627 @@
+***********************Assignment #2, Team Titans************************
+
+Hotel Supplier: Four Points - Rooms on Sale: Price changed from $1000 to $990 
+Hotel Supplier: HoidaysInn - Rooms on Sale: Price changed from $1000 to $506 
+Hotel Supplier: Taj - Rooms on Sale: Price changed from $1000 to $857 
+19:14:11 : Travel Agency 0 placed an order of 4 rooms in Taj @ $857
+19:14:11 : Travel Agency 3 placed an order of 4 rooms in Four Points @ $990
+19:14:11 : Travel Agency 4 placed an order of 5 rooms in Taj @ $857
+Hotel Supplier: Four Points - Rooms on Sale: Price changed from $990 to $845 
+HoidaysInn : Price changed to $740 - No Price Cut!
+Hotel Supplier: Taj - Rooms on Sale: Price changed from $857 to $740 
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 4, Total price: 4280.76, Time to complete: 00:00:01.0419434
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 3 placed an order of 7 rooms in HoidaysInn @ $506
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 5, Total price: 4632.085, Time to complete: 00:00:01.2538855
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 3 placed an order of 9 rooms in Taj @ $857
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 4, Total price: 3705.668, Time to complete: 00:00:01.3998410
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 2 placed an order of 1 rooms in Four Points @ $990
+Hotel Supplier: HoidaysInn - Rooms on Sale: Price changed from $740 to $688 
+Hotel Supplier: Four Points - Rooms on Sale: Price changed from $845 to $609 
+Taj : Price changed to $871 - No Price Cut!
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 7, Total price: 3828.902, Time to complete: 00:00:02.0551535
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 2 placed an order of 4 rooms in Taj @ $857
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 9, Total price: 8337.753, Time to complete: 00:00:02.1745040
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 2 placed an order of 3 rooms in HoidaysInn @ $506
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 1, Total price: 1070.19, Time to complete: 00:00:02.2869084
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 0 placed an order of 4 rooms in Four Points @ $990
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 4, Total price: 3705.668, Time to complete: 00:00:02.7921649
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 0 placed an order of 7 rooms in HoidaysInn @ $506
+Hotel Supplier: HoidaysInn - Rooms on Sale: Price changed from $688 to $655 
+Taj : Price changed to $960 - No Price Cut!
+Hotel Supplier: Four Points - Rooms on Sale: Price changed from $609 to $581 
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 4, Total price: 4280.76, Time to complete: 00:00:03.0825281
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 1 placed an order of 3 rooms in Four Points @ $990
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 3, Total price: 1640.958, Time to complete: 00:00:03.2048242
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 1 placed an order of 2 rooms in Taj @ $857
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 3, Total price: 3210.57, Time to complete: 00:00:03.9305644
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 1 placed an order of 9 rooms in HoidaysInn @ $506
+HoidaysInn : Price changed to $851 - No Price Cut!
+Taj : Price changed to $989 - No Price Cut!
+Four Points : Price changed to $648 - No Price Cut!
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 7, Total price: 3828.902, Time to complete: 00:00:04.0556846
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 4 placed an order of 6 rooms in Four Points @ $990
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 2, Total price: 1852.834, Time to complete: 00:00:04.1678192
+----------------------------------------------------------------------------
+19:14:11 : Travel Agency 4 placed an order of 4 rooms in HoidaysInn @ $506
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 6, Total price: 6421.14, Time to complete: 00:00:04.8210504
+----------------------------------------------------------------------------
+19:14:12 : Travel Agency 4 placed an order of 2 rooms in Four Points @ $845
+Hotel Supplier: HoidaysInn - Rooms on Sale: Price changed from $851 to $836 
+Hotel Supplier: Taj - Rooms on Sale: Price changed from $989 to $549 
+Hotel Supplier: Four Points - Rooms on Sale: Price changed from $648 to $564 
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 9, Total price: 4922.874, Time to complete: 00:00:05.0372005
+----------------------------------------------------------------------------
+19:14:12 : Travel Agency 3 placed an order of 3 rooms in Taj @ $740
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 4, Total price: 2187.944, Time to complete: 00:00:05.2029298
+----------------------------------------------------------------------------
+19:14:12 : Travel Agency 4 placed an order of 9 rooms in Taj @ $740
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 2, Total price: 1826.89, Time to complete: 00:00:04.5321629
+----------------------------------------------------------------------------
+19:14:12 : Travel Agency 0 placed an order of 6 rooms in Four Points @ $845
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 3, Total price: 2399.82, Time to complete: 00:00:04.7883098
+----------------------------------------------------------------------------
+19:14:12 : Travel Agency 0 placed an order of 1 rooms in Taj @ $740
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 9, Total price: 7199.46, Time to complete: 00:00:04.9324255
+----------------------------------------------------------------------------
+19:14:12 : Travel Agency 2 placed an order of 5 rooms in Four Points @ $845
+Hotel Supplier: HoidaysInn - Rooms on Sale: Price changed from $836 to $519 
+Taj : Price changed to $729 - No Price Cut!
+Four Points : Price changed to $946 - No Price Cut!
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 6, Total price: 5480.67, Time to complete: 00:00:05.4168270
+----------------------------------------------------------------------------
+19:14:12 : Travel Agency 1 placed an order of 5 rooms in Four Points @ $845
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 1, Total price: 799.94, Time to complete: 00:00:05.8645242
+----------------------------------------------------------------------------
+19:14:12 : Travel Agency 1 placed an order of 1 rooms in Taj @ $740
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 5, Total price: 4567.225, Time to complete: 00:00:05.9845067
+----------------------------------------------------------------------------
+19:14:12 : Travel Agency 2 placed an order of 7 rooms in Taj @ $740
+HoidaysInn : Price changed to $861 - No Price Cut!
+Hotel Supplier: Taj - Rooms on Sale: Price changed from $729 to $701 
+Hotel Supplier: Four Points - Rooms on Sale: Price changed from $946 to $568 
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 5, Total price: 4567.225, Time to complete: 00:00:06.2868994
+----------------------------------------------------------------------------
+19:14:12 : Travel Agency 3 placed an order of 6 rooms in Four Points @ $845
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 1, Total price: 799.94, Time to complete: 00:00:06.5437690
+----------------------------------------------------------------------------
+19:14:13 : Travel Agency 3 placed an order of 6 rooms in Four Points @ $609
+HoidaysInn : Price changed to $993 - No Price Cut!
+Taj : Price changed to $982 - No Price Cut!
+Four Points : Price changed to $614 - No Price Cut!
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 7, Total price: 5599.58, Time to complete: 00:00:07.0921371
+----------------------------------------------------------------------------
+19:14:13 : Travel Agency 1 placed an order of 5 rooms in Four Points @ $609
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 6, Total price: 3949.974, Time to complete: 00:00:06.3121222
+----------------------------------------------------------------------------
+19:14:13 : Travel Agency 2 placed an order of 7 rooms in Four Points @ $609
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 6, Total price: 5480.67, Time to complete: 00:00:07.4413981
+----------------------------------------------------------------------------
+19:14:13 : Travel Agency 4 placed an order of 1 rooms in Four Points @ $609
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 5, Total price: 3291.645, Time to complete: 00:00:06.8902311
+----------------------------------------------------------------------------
+19:14:13 : Travel Agency 0 placed an order of 1 rooms in Four Points @ $609
+Hotel Supplier: HoidaysInn - Rooms on Sale: Price changed from $993 to $691 
+Hotel Supplier: Taj - Rooms on Sale: Price changed from $982 to $643 
+Four Points : Price changed to $939 - No Price Cut!
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 7, Total price: 4608.303, Time to complete: 00:00:07.1101794
+----------------------------------------------------------------------------
+19:14:13 : Travel Agency 1 placed an order of 2 rooms in HoidaysInn @ $688
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 1, Total price: 658.329, Time to complete: 00:00:07.5260815
+----------------------------------------------------------------------------
+19:14:13 : Travel Agency 3 placed an order of 1 rooms in HoidaysInn @ $688
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 1, Total price: 658.329, Time to complete: 00:00:07.9713176
+----------------------------------------------------------------------------
+19:14:13 : Travel Agency 0 placed an order of 4 rooms in HoidaysInn @ $688
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 2, Total price: 1487.456, Time to complete: 00:00:08.1610223
+----------------------------------------------------------------------------
+19:14:13 : Travel Agency 2 placed an order of 9 rooms in HoidaysInn @ $688
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 1, Total price: 743.728, Time to complete: 00:00:08.3462150
+----------------------------------------------------------------------------
+19:14:13 : Travel Agency 4 placed an order of 3 rooms in HoidaysInn @ $688
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 4, Total price: 2974.912, Time to complete: 00:00:08.9490712
+----------------------------------------------------------------------------
+19:14:14 : Travel Agency 0 placed an order of 5 rooms in HoidaysInn @ $655
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 9, Total price: 6693.552, Time to complete: 00:00:09.0741623
+----------------------------------------------------------------------------
+19:14:14 : Travel Agency 1 placed an order of 6 rooms in HoidaysInn @ $655
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 3, Total price: 2231.184, Time to complete: 00:00:09.4078493
+----------------------------------------------------------------------------
+19:14:14 : Travel Agency 2 placed an order of 9 rooms in HoidaysInn @ $655
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 5, Total price: 3540.275, Time to complete: 00:00:09.1022177
+----------------------------------------------------------------------------
+19:14:14 : Travel Agency 3 placed an order of 4 rooms in HoidaysInn @ $655
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 6, Total price: 4248.33, Time to complete: 00:00:09.2242405
+----------------------------------------------------------------------------
+19:14:14 : Travel Agency 4 placed an order of 3 rooms in HoidaysInn @ $655
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 9, Total price: 6372.495, Time to complete: 00:00:09.3523156
+----------------------------------------------------------------------------
+19:14:14 : Travel Agency 0 placed an order of 8 rooms in Four Points @ $581
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 4, Total price: 2832.22, Time to complete: 00:00:09.8595465
+----------------------------------------------------------------------------
+19:14:14 : Travel Agency 1 placed an order of 8 rooms in Four Points @ $581
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 8, Total price: 5024.488, Time to complete: 00:00:10.0441349
+----------------------------------------------------------------------------
+19:14:14 : Travel Agency 2 placed an order of 8 rooms in Four Points @ $581
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 3, Total price: 2124.165, Time to complete: 00:00:10.2136672
+----------------------------------------------------------------------------
+19:14:14 : Travel Agency 3 placed an order of 9 rooms in Four Points @ $581
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 8, Total price: 5024.488, Time to complete: 00:00:10.4963646
+----------------------------------------------------------------------------
+19:14:14 : Travel Agency 4 placed an order of 4 rooms in Four Points @ $581
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 8, Total price: 5024.488, Time to complete: 00:00:11.0161463
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 1 placed an order of 9 rooms in Taj @ $549
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 4, Total price: 2512.244, Time to complete: 00:00:11.1872689
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 2 placed an order of 4 rooms in Taj @ $549
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 9, Total price: 5652.549, Time to complete: 00:00:11.3094593
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 0 placed an order of 9 rooms in Taj @ $549
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 9, Total price: 5341.221, Time to complete: 00:00:09.6650493
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 3 placed an order of 4 rooms in Taj @ $549
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 4, Total price: 2373.876, Time to complete: 00:00:09.9321137
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 4 placed an order of 5 rooms in Taj @ $549
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 9, Total price: 5341.221, Time to complete: 00:00:10.1457411
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 4 placed an order of 5 rooms in Four Points @ $564
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 4, Total price: 2373.876, Time to complete: 00:00:10.3176852
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 3 placed an order of 2 rooms in Four Points @ $564
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 5, Total price: 2967.345, Time to complete: 00:00:11.0581413
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 2 placed an order of 4 rooms in Four Points @ $564
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 2, Total price: 1219.368, Time to complete: 00:00:11.2273221
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 1 placed an order of 3 rooms in Four Points @ $564
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 5, Total price: 3048.42, Time to complete: 00:00:11.3562123
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 0 placed an order of 7 rooms in Four Points @ $564
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 4, Total price: 2438.736, Time to complete: 00:00:12.0031401
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 0 placed an order of 7 rooms in HoidaysInn @ $836
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 7, Total price: 4267.788, Time to complete: 00:00:12.1168890
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 2 placed an order of 1 rooms in HoidaysInn @ $836
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 3, Total price: 1829.052, Time to complete: 00:00:12.2380737
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 4 placed an order of 2 rooms in HoidaysInn @ $836
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 7, Total price: 6326.012, Time to complete: 00:00:12.9723269
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 3 placed an order of 7 rooms in HoidaysInn @ $836
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 1, Total price: 903.716, Time to complete: 00:00:13.1988642
+----------------------------------------------------------------------------
+19:14:16 : Travel Agency 1 placed an order of 5 rooms in HoidaysInn @ $836
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 2, Total price: 1807.432, Time to complete: 00:00:13.3292755
+----------------------------------------------------------------------------
+19:14:17 : Travel Agency 1 placed an order of 4 rooms in HoidaysInn @ $519
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 5, Total price: 4518.58, Time to complete: 00:00:13.9810143
+----------------------------------------------------------------------------
+19:14:17 : Travel Agency 0 placed an order of 2 rooms in HoidaysInn @ $519
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 7, Total price: 6326.012, Time to complete: 00:00:14.0924185
+----------------------------------------------------------------------------
+19:14:17 : Travel Agency 3 placed an order of 8 rooms in HoidaysInn @ $519
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 4, Total price: 2244.156, Time to complete: 00:00:13.5866068
+----------------------------------------------------------------------------
+19:14:17 : Travel Agency 2 placed an order of 4 rooms in HoidaysInn @ $519
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 2, Total price: 1122.078, Time to complete: 00:00:14.0693517
+----------------------------------------------------------------------------
+19:14:17 : Travel Agency 4 placed an order of 6 rooms in HoidaysInn @ $519
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 8, Total price: 4488.312, Time to complete: 00:00:14.1787050
+----------------------------------------------------------------------------
+19:14:18 : Travel Agency 0 placed an order of 4 rooms in Taj @ $701
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 4, Total price: 2244.156, Time to complete: 00:00:14.4780195
+----------------------------------------------------------------------------
+19:14:18 : Travel Agency 2 placed an order of 7 rooms in Taj @ $701
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 6, Total price: 3366.234, Time to complete: 00:00:14.7174257
+----------------------------------------------------------------------------
+19:14:18 : Travel Agency 3 placed an order of 5 rooms in Taj @ $701
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 4, Total price: 3031.124, Time to complete: 00:00:13.8314671
+----------------------------------------------------------------------------
+19:14:18 : Travel Agency 1 placed an order of 6 rooms in Taj @ $701
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 7, Total price: 5304.467, Time to complete: 00:00:14.2056140
+----------------------------------------------------------------------------
+19:14:18 : Travel Agency 4 placed an order of 2 rooms in Taj @ $701
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 5, Total price: 3788.905, Time to complete: 00:00:14.5321757
+----------------------------------------------------------------------------
+19:14:18 : Travel Agency 0 placed an order of 9 rooms in Four Points @ $568
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 6, Total price: 4546.686, Time to complete: 00:00:14.6566831
+----------------------------------------------------------------------------
+19:14:18 : Travel Agency 1 placed an order of 5 rooms in Four Points @ $568
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 2, Total price: 1515.562, Time to complete: 00:00:15.0737175
+----------------------------------------------------------------------------
+19:14:18 : Travel Agency 3 placed an order of 3 rooms in Four Points @ $568
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 9, Total price: 5526.072, Time to complete: 00:00:15.5740793
+----------------------------------------------------------------------------
+19:14:18 : Travel Agency 4 placed an order of 3 rooms in Four Points @ $568
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 5, Total price: 3070.04, Time to complete: 00:00:15.9133901
+----------------------------------------------------------------------------
+19:14:18 : Travel Agency 2 placed an order of 6 rooms in Four Points @ $568
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 3, Total price: 1842.024, Time to complete: 00:00:16.1668745
+----------------------------------------------------------------------------
+19:14:20 : Travel Agency 1 placed an order of 8 rooms in HoidaysInn @ $691
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 3, Total price: 1842.024, Time to complete: 00:00:16.2805289
+----------------------------------------------------------------------------
+19:14:20 : Travel Agency 2 placed an order of 3 rooms in HoidaysInn @ $691
+____________________________________________________________________________
+Hotel Supplier: Four Points
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 6, Total price: 3684.048, Time to complete: 00:00:16.9064530
+----------------------------------------------------------------------------
+19:14:20 : Travel Agency 3 placed an order of 9 rooms in HoidaysInn @ $691
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 8, Total price: 5975.768, Time to complete: 00:00:15.1663895
+----------------------------------------------------------------------------
+19:14:20 : Travel Agency 4 placed an order of 3 rooms in HoidaysInn @ $691
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 3, Total price: 2240.913, Time to complete: 00:00:15.3699650
+----------------------------------------------------------------------------
+19:14:20 : Travel Agency 1 placed an order of 1 rooms in Taj @ $643
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 9, Total price: 6722.739, Time to complete: 00:00:15.7382499
+----------------------------------------------------------------------------
+19:14:20 : Travel Agency 0 placed an order of 9 rooms in Taj @ $643
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 3, Total price: 2240.913, Time to complete: 00:00:16.2312469
+----------------------------------------------------------------------------
+19:14:20 : Travel Agency 3 placed an order of 9 rooms in Taj @ $643
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 1  
+No. of rooms: 1, Total price: 695.083, Time to complete: 00:00:16.5184290
+----------------------------------------------------------------------------
+19:14:20 : Travel Agency 2 placed an order of 2 rooms in Taj @ $643
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 9, Total price: 6255.747, Time to complete: 00:00:16.9104052
+----------------------------------------------------------------------------
+19:14:20 : Travel Agency 4 placed an order of 3 rooms in Taj @ $643
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 3  
+No. of rooms: 9, Total price: 6255.747, Time to complete: 00:00:17.0964202
+----------------------------------------------------------------------------
+19:14:20 : Travel Agency 0 placed an order of 7 rooms in HoidaysInn @ $691
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 2  
+No. of rooms: 2, Total price: 1390.166, Time to complete: 00:00:17.2803783
+----------------------------------------------------------------------------
+____________________________________________________________________________
+Hotel Supplier: HoidaysInn
+Card Authentication Done
+Order processing completed for Travel Agency 0  
+No. of rooms: 7, Total price: 5228.797, Time to complete: 00:00:17.7733565
+----------------------------------------------------------------------------
+____________________________________________________________________________
+Hotel Supplier: Taj
+Card Authentication Done
+Order processing completed for Travel Agency 4  
+No. of rooms: 3, Total price: 2085.249, Time to complete: 00:00:18.0101786
+----------------------------------------------------------------------------
