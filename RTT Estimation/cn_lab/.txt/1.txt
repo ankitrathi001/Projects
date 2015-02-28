@@ -1,0 +1,511 @@
+Sending 100 messages 1 byte each and wait for ack.
+
+0
+RTT = 0.196934 ms
+SRTT = 0.196934 ms
+RTO = 0.393867 ms
+
+1
+RTT = 0.133991 ms
+SRTT = 0.189066 ms
+RTO = 0.378132 ms
+
+2
+RTT = 0.136137 ms
+SRTT = 0.182450 ms
+RTO = 0.364900 ms
+
+3
+RTT = 0.133991 ms
+SRTT = 0.176392 ms
+RTO = 0.352785 ms
+
+4
+RTT = 0.130177 ms
+SRTT = 0.170616 ms
+RTO = 0.341231 ms
+
+5
+RTT = 0.133991 ms
+SRTT = 0.166037 ms
+RTO = 0.332075 ms
+
+6
+RTT = 0.142813 ms
+SRTT = 0.163134 ms
+RTO = 0.326269 ms
+
+7
+RTT = 0.139952 ms
+SRTT = 0.160237 ms
+RTO = 0.320473 ms
+
+8
+RTT = 0.148058 ms
+SRTT = 0.158714 ms
+RTO = 0.317428 ms
+
+9
+RTT = 0.219822 ms
+SRTT = 0.166353 ms
+RTO = 0.332705 ms
+
+10
+RTT = 0.520945 ms
+SRTT = 0.210677 ms
+RTO = 0.421353 ms
+
+Retransmitting packet:TIMEOUT
+11
+RTT = 0.238180 ms
+SRTT = 0.214115 ms
+RTO = 0.428229 ms
+
+12
+RTT = 0.149965 ms
+SRTT = 0.206096 ms
+RTO = 0.412192 ms
+
+13
+RTT = 0.136137 ms
+SRTT = 0.197351 ms
+RTO = 0.394702 ms
+
+14
+RTT = 0.134945 ms
+SRTT = 0.189550 ms
+RTO = 0.379101 ms
+
+15
+RTT = 0.133991 ms
+SRTT = 0.182605 ms
+RTO = 0.365211 ms
+
+16
+RTT = 0.131845 ms
+SRTT = 0.176260 ms
+RTO = 0.352521 ms
+
+17
+RTT = 0.132084 ms
+SRTT = 0.170738 ms
+RTO = 0.341477 ms
+
+18
+RTT = 0.132084 ms
+SRTT = 0.165907 ms
+RTO = 0.331813 ms
+
+19
+RTT = 0.134945 ms
+SRTT = 0.162036 ms
+RTO = 0.324073 ms
+
+20
+RTT = 0.133038 ms
+SRTT = 0.158412 ms
+RTO = 0.316823 ms
+
+21
+RTT = 0.130892 ms
+SRTT = 0.154972 ms
+RTO = 0.309943 ms
+
+22
+RTT = 0.133991 ms
+SRTT = 0.152349 ms
+RTO = 0.304698 ms
+
+23
+RTT = 0.131845 ms
+SRTT = 0.149786 ms
+RTO = 0.299572 ms
+
+24
+RTT = 0.132799 ms
+SRTT = 0.147663 ms
+RTO = 0.295325 ms
+
+25
+RTT = 0.132799 ms
+SRTT = 0.145805 ms
+RTO = 0.291610 ms
+
+26
+RTT = 0.132799 ms
+SRTT = 0.144179 ms
+RTO = 0.288358 ms
+
+27
+RTT = 0.133991 ms
+SRTT = 0.142906 ms
+RTO = 0.285811 ms
+
+28
+RTT = 0.134945 ms
+SRTT = 0.141910 ms
+RTO = 0.283821 ms
+
+29
+RTT = 0.133991 ms
+SRTT = 0.140921 ms
+RTO = 0.281841 ms
+
+30
+RTT = 0.130892 ms
+SRTT = 0.139667 ms
+RTO = 0.279334 ms
+
+31
+RTT = 0.133991 ms
+SRTT = 0.138958 ms
+RTO = 0.277915 ms
+
+32
+RTT = 0.132799 ms
+SRTT = 0.138188 ms
+RTO = 0.276375 ms
+
+33
+RTT = 0.130892 ms
+SRTT = 0.137276 ms
+RTO = 0.274551 ms
+
+34
+RTT = 0.133038 ms
+SRTT = 0.136746 ms
+RTO = 0.273492 ms
+
+35
+RTT = 0.132084 ms
+SRTT = 0.136163 ms
+RTO = 0.272326 ms
+
+36
+RTT = 0.128984 ms
+SRTT = 0.135266 ms
+RTO = 0.270532 ms
+
+37
+RTT = 0.133991 ms
+SRTT = 0.135107 ms
+RTO = 0.270213 ms
+
+38
+RTT = 0.140190 ms
+SRTT = 0.135742 ms
+RTO = 0.271484 ms
+
+39
+RTT = 0.133991 ms
+SRTT = 0.135523 ms
+RTO = 0.271046 ms
+
+40
+RTT = 0.134945 ms
+SRTT = 0.135451 ms
+RTO = 0.270902 ms
+
+41
+RTT = 0.130177 ms
+SRTT = 0.134792 ms
+RTO = 0.269583 ms
+
+42
+RTT = 0.132084 ms
+SRTT = 0.134453 ms
+RTO = 0.268906 ms
+
+43
+RTT = 0.133038 ms
+SRTT = 0.134276 ms
+RTO = 0.268552 ms
+
+44
+RTT = 0.135899 ms
+SRTT = 0.134479 ms
+RTO = 0.268958 ms
+
+45
+RTT = 0.149012 ms
+SRTT = 0.136296 ms
+RTO = 0.272591 ms
+
+46
+RTT = 0.130892 ms
+SRTT = 0.135620 ms
+RTO = 0.271240 ms
+
+47
+RTT = 0.137091 ms
+SRTT = 0.135804 ms
+RTO = 0.271608 ms
+
+48
+RTT = 0.128984 ms
+SRTT = 0.134951 ms
+RTO = 0.269903 ms
+
+49
+RTT = 0.121117 ms
+SRTT = 0.133222 ms
+RTO = 0.266444 ms
+
+50
+RTT = 0.120878 ms
+SRTT = 0.131679 ms
+RTO = 0.263358 ms
+
+51
+RTT = 0.119925 ms
+SRTT = 0.130210 ms
+RTO = 0.260420 ms
+
+52
+RTT = 0.120163 ms
+SRTT = 0.128954 ms
+RTO = 0.257908 ms
+
+53
+RTT = 5.459070 ms
+SRTT = 0.795218 ms
+RTO = 1.590437 ms
+
+Retransmitting packet:TIMEOUT
+54
+RTT = 2.226114 ms
+SRTT = 0.974080 ms
+RTO = 1.948161 ms
+
+Retransmitting packet:TIMEOUT
+55
+RTT = 0.185013 ms
+SRTT = 0.875447 ms
+RTO = 1.750894 ms
+
+56
+RTT = 0.151157 ms
+SRTT = 0.784911 ms
+RTO = 1.569822 ms
+
+57
+RTT = 0.132084 ms
+SRTT = 0.703307 ms
+RTO = 1.406615 ms
+
+58
+RTT = 0.132084 ms
+SRTT = 0.631904 ms
+RTO = 1.263809 ms
+
+59
+RTT = 0.133991 ms
+SRTT = 0.569665 ms
+RTO = 1.139331 ms
+
+60
+RTT = 0.133038 ms
+SRTT = 0.515087 ms
+RTO = 1.030174 ms
+
+61
+RTT = 0.132084 ms
+SRTT = 0.467211 ms
+RTO = 0.934423 ms
+
+62
+RTT = 0.208855 ms
+SRTT = 0.434917 ms
+RTO = 0.869834 ms
+
+63
+RTT = 0.150919 ms
+SRTT = 0.399417 ms
+RTO = 0.798834 ms
+
+64
+RTT = 0.236988 ms
+SRTT = 0.379114 ms
+RTO = 0.758227 ms
+
+65
+RTT = 0.506163 ms
+SRTT = 0.394995 ms
+RTO = 0.789989 ms
+
+66
+RTT = 0.254154 ms
+SRTT = 0.377390 ms
+RTO = 0.754779 ms
+
+67
+RTT = 0.133038 ms
+SRTT = 0.346846 ms
+RTO = 0.693691 ms
+
+68
+RTT = 0.181198 ms
+SRTT = 0.326140 ms
+RTO = 0.652279 ms
+
+69
+RTT = 0.138998 ms
+SRTT = 0.302747 ms
+RTO = 0.605494 ms
+
+70
+RTT = 0.133991 ms
+SRTT = 0.281652 ms
+RTO = 0.563305 ms
+
+71
+RTT = 0.132084 ms
+SRTT = 0.262956 ms
+RTO = 0.525913 ms
+
+72
+RTT = 0.132084 ms
+SRTT = 0.246597 ms
+RTO = 0.493195 ms
+
+73
+RTT = 0.133991 ms
+SRTT = 0.232522 ms
+RTO = 0.465043 ms
+
+74
+RTT = 0.132084 ms
+SRTT = 0.219967 ms
+RTO = 0.439934 ms
+
+75
+RTT = 0.134945 ms
+SRTT = 0.209339 ms
+RTO = 0.418678 ms
+
+76
+RTT = 0.136137 ms
+SRTT = 0.200189 ms
+RTO = 0.400378 ms
+
+77
+RTT = 0.143051 ms
+SRTT = 0.193047 ms
+RTO = 0.386093 ms
+
+78
+RTT = 0.133991 ms
+SRTT = 0.185665 ms
+RTO = 0.371329 ms
+
+79
+RTT = 0.129938 ms
+SRTT = 0.178699 ms
+RTO = 0.357398 ms
+
+80
+RTT = 0.132084 ms
+SRTT = 0.172872 ms
+RTO = 0.345744 ms
+
+81
+RTT = 0.131130 ms
+SRTT = 0.167654 ms
+RTO = 0.335309 ms
+
+82
+RTT = 0.132084 ms
+SRTT = 0.163208 ms
+RTO = 0.326416 ms
+
+83
+RTT = 0.131845 ms
+SRTT = 0.159288 ms
+RTO = 0.318575 ms
+
+84
+RTT = 0.132799 ms
+SRTT = 0.155977 ms
+RTO = 0.311953 ms
+
+85
+RTT = 0.129938 ms
+SRTT = 0.152722 ms
+RTO = 0.305444 ms
+
+86
+RTT = 0.131130 ms
+SRTT = 0.150023 ms
+RTO = 0.300046 ms
+
+87
+RTT = 0.128031 ms
+SRTT = 0.147274 ms
+RTO = 0.294548 ms
+
+88
+RTT = 0.123024 ms
+SRTT = 0.144243 ms
+RTO = 0.288485 ms
+
+89
+RTT = 0.123024 ms
+SRTT = 0.141590 ms
+RTO = 0.283181 ms
+
+90
+RTT = 0.122070 ms
+SRTT = 0.139150 ms
+RTO = 0.278301 ms
+
+91
+RTT = 0.122070 ms
+SRTT = 0.137015 ms
+RTO = 0.274031 ms
+
+92
+RTT = 0.123024 ms
+SRTT = 0.135266 ms
+RTO = 0.270533 ms
+
+93
+RTT = 0.127077 ms
+SRTT = 0.134243 ms
+RTO = 0.268485 ms
+
+94
+RTT = 0.122070 ms
+SRTT = 0.132721 ms
+RTO = 0.265442 ms
+
+95
+RTT = 0.122070 ms
+SRTT = 0.131390 ms
+RTO = 0.262780 ms
+
+96
+RTT = 0.121117 ms
+SRTT = 0.130106 ms
+RTO = 0.260211 ms
+
+97
+RTT = 0.125885 ms
+SRTT = 0.129578 ms
+RTO = 0.259156 ms
+
+98
+RTT = 0.120878 ms
+SRTT = 0.128491 ms
+RTO = 0.256981 ms
+
+99
+RTT = 0.122070 ms
+SRTT = 0.127688 ms
+RTO = 0.255376 ms
+
+close sockets and exit
+
+Time at which connection was established, T1 = 1320860397.666529
+Time at which segments were send, T2 = 1320860397.689381
+Time at which Acknowledgements were received, T5 = 1320860397.689503
+Time at which connection was closed, T6 = 1320860397.689508

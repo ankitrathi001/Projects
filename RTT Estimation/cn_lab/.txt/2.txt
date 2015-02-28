@@ -1,0 +1,1036 @@
+Sending 100 messages 1 byte each and wait for ack.
+
+RTT = 0.182867 ms
+SRTT = 0.182867 ms
+RTO = 0.182867 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.130309
+Time at which Acknowledgements were received, T5 = 1320861367.130492
+Time at which connection was closed, T6 = 1320861367.130545
+No. of retransmissions = 0
+RTT = 0.130892 ms
+SRTT = 0.176370 ms
+RTO = 0.187740 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.130568
+Time at which Acknowledgements were received, T5 = 1320861367.130699
+Time at which connection was closed, T6 = 1320861367.130706
+No. of retransmissions = 0
+RTT = 0.128031 ms
+SRTT = 0.170328 ms
+RTO = 0.189429 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.130718
+Time at which Acknowledgements were received, T5 = 1320861367.130846
+Time at which connection was closed, T6 = 1320861367.130852
+No. of retransmissions = 0
+RTT = 0.125170 ms
+SRTT = 0.164683 ms
+RTO = 0.188887 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.130864
+Time at which Acknowledgements were received, T5 = 1320861367.130989
+Time at which connection was closed, T6 = 1320861367.130995
+No. of retransmissions = 0
+RTT = 0.126123 ms
+SRTT = 0.159863 ms
+RTO = 0.186451 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.131008
+Time at which Acknowledgements were received, T5 = 1320861367.131134
+Time at which connection was closed, T6 = 1320861367.131140
+No. of retransmissions = 0
+RTT = 0.126123 ms
+SRTT = 0.155646 ms
+RTO = 0.182967 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.131152
+Time at which Acknowledgements were received, T5 = 1320861367.131278
+Time at which connection was closed, T6 = 1320861367.131283
+No. of retransmissions = 0
+RTT = 0.127077 ms
+SRTT = 0.152075 ms
+RTO = 0.178815 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.131296
+Time at which Acknowledgements were received, T5 = 1320861367.131423
+Time at which connection was closed, T6 = 1320861367.131428
+No. of retransmissions = 0
+RTT = 0.126123 ms
+SRTT = 0.148831 ms
+RTO = 0.174563 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.131440
+Time at which Acknowledgements were received, T5 = 1320861367.131566
+Time at which connection was closed, T6 = 1320861367.131571
+No. of retransmissions = 0
+RTT = 0.123978 ms
+SRTT = 0.145724 ms
+RTO = 0.170460 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.131583
+Time at which Acknowledgements were received, T5 = 1320861367.131707
+Time at which connection was closed, T6 = 1320861367.131713
+No. of retransmissions = 0
+RTT = 0.123978 ms
+SRTT = 0.143006 ms
+RTO = 0.166315 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.131725
+Time at which Acknowledgements were received, T5 = 1320861367.131849
+Time at which connection was closed, T6 = 1320861367.131855
+No. of retransmissions = 0
+RTT = 0.123024 ms
+SRTT = 0.140508 ms
+RTO = 0.162361 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.131867
+Time at which Acknowledgements were received, T5 = 1320861367.131990
+Time at which connection was closed, T6 = 1320861367.131995
+No. of retransmissions = 0
+RTT = 0.130892 ms
+SRTT = 0.139306 ms
+RTO = 0.157799 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.132008
+Time at which Acknowledgements were received, T5 = 1320861367.132139
+Time at which connection was closed, T6 = 1320861367.132144
+No. of retransmissions = 0
+RTT = 0.124216 ms
+SRTT = 0.137420 ms
+RTO = 0.154590 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.132156
+Time at which Acknowledgements were received, T5 = 1320861367.132280
+Time at which connection was closed, T6 = 1320861367.132369
+No. of retransmissions = 0
+RTT = 0.169992 ms
+SRTT = 0.141491 ms
+RTO = 0.161495 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.132382
+Time at which Acknowledgements were received, T5 = 1320861367.132552
+Time at which connection was closed, T6 = 1320861367.132559
+No. of retransmissions = 1
+Retransmitting packet:TIMEOUT
+RTT = 0.509024 ms
+SRTT = 0.187433 ms
+RTO = 0.282833 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.132573
+Time at which Acknowledgements were received, T5 = 1320861367.133082
+Time at which connection was closed, T6 = 1320861367.133113
+No. of retransmissions = 2
+Retransmitting packet:TIMEOUT
+RTT = 0.146866 ms
+SRTT = 0.182362 ms
+RTO = 0.262786 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.133136
+Time at which Acknowledgements were received, T5 = 1320861367.133283
+Time at which connection was closed, T6 = 1320861367.133288
+No. of retransmissions = 2
+RTT = 0.128031 ms
+SRTT = 0.175571 ms
+RTO = 0.247774 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.133301
+Time at which Acknowledgements were received, T5 = 1320861367.133429
+Time at which connection was closed, T6 = 1320861367.133435
+No. of retransmissions = 2
+RTT = 0.127077 ms
+SRTT = 0.169509 ms
+RTO = 0.234269 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.133447
+Time at which Acknowledgements were received, T5 = 1320861367.133574
+Time at which connection was closed, T6 = 1320861367.133579
+No. of retransmissions = 2
+RTT = 0.127077 ms
+SRTT = 0.164205 ms
+RTO = 0.222057 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.133592
+Time at which Acknowledgements were received, T5 = 1320861367.133719
+Time at which connection was closed, T6 = 1320861367.133724
+No. of retransmissions = 2
+RTT = 0.126123 ms
+SRTT = 0.159445 ms
+RTO = 0.211164 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.133736
+Time at which Acknowledgements were received, T5 = 1320861367.133862
+Time at which connection was closed, T6 = 1320861367.133867
+No. of retransmissions = 2
+RTT = 0.126123 ms
+SRTT = 0.155280 ms
+RTO = 0.201358 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.133879
+Time at which Acknowledgements were received, T5 = 1320861367.134005
+Time at which connection was closed, T6 = 1320861367.134010
+No. of retransmissions = 2
+RTT = 0.125885 ms
+SRTT = 0.151605 ms
+RTO = 0.192594 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.134022
+Time at which Acknowledgements were received, T5 = 1320861367.134148
+Time at which connection was closed, T6 = 1320861367.134153
+No. of retransmissions = 2
+RTT = 0.125885 ms
+SRTT = 0.148390 ms
+RTO = 0.184758 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.134166
+Time at which Acknowledgements were received, T5 = 1320861367.134292
+Time at which connection was closed, T6 = 1320861367.134297
+No. of retransmissions = 2
+RTT = 0.125885 ms
+SRTT = 0.145577 ms
+RTO = 0.177776 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.134309
+Time at which Acknowledgements were received, T5 = 1320861367.134435
+Time at which connection was closed, T6 = 1320861367.134440
+No. of retransmissions = 2
+RTT = 0.125885 ms
+SRTT = 0.143116 ms
+RTO = 0.171573 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.134453
+Time at which Acknowledgements were received, T5 = 1320861367.134579
+Time at which connection was closed, T6 = 1320861367.134635
+No. of retransmissions = 2
+RTT = 0.135183 ms
+SRTT = 0.142124 ms
+RTO = 0.165202 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.134647
+Time at which Acknowledgements were received, T5 = 1320861367.134782
+Time at which connection was closed, T6 = 1320861367.134787
+No. of retransmissions = 2
+RTT = 0.126123 ms
+SRTT = 0.140124 ms
+RTO = 0.160933 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.134800
+Time at which Acknowledgements were received, T5 = 1320861367.134926
+Time at which connection was closed, T6 = 1320861367.134931
+No. of retransmissions = 2
+RTT = 0.126123 ms
+SRTT = 0.138374 ms
+RTO = 0.157043 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.134944
+Time at which Acknowledgements were received, T5 = 1320861367.135070
+Time at which connection was closed, T6 = 1320861367.135075
+No. of retransmissions = 2
+RTT = 0.128031 ms
+SRTT = 0.137081 ms
+RTO = 0.153345 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.135087
+Time at which Acknowledgements were received, T5 = 1320861367.135215
+Time at which connection was closed, T6 = 1320861367.135220
+No. of retransmissions = 2
+RTT = 0.126123 ms
+SRTT = 0.135711 ms
+RTO = 0.150307 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.135233
+Time at which Acknowledgements were received, T5 = 1320861367.135359
+Time at which connection was closed, T6 = 1320861367.135364
+No. of retransmissions = 2
+RTT = 0.127077 ms
+SRTT = 0.134632 ms
+RTO = 0.147467 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.135376
+Time at which Acknowledgements were received, T5 = 1320861367.135503
+Time at which connection was closed, T6 = 1320861367.135508
+No. of retransmissions = 2
+RTT = 0.128031 ms
+SRTT = 0.133807 ms
+RTO = 0.144877 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.135520
+Time at which Acknowledgements were received, T5 = 1320861367.135648
+Time at which connection was closed, T6 = 1320861367.135653
+No. of retransmissions = 2
+RTT = 0.127077 ms
+SRTT = 0.132966 ms
+RTO = 0.142741 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.135665
+Time at which Acknowledgements were received, T5 = 1320861367.135792
+Time at which connection was closed, T6 = 1320861367.135797
+No. of retransmissions = 2
+RTT = 0.123978 ms
+SRTT = 0.131842 ms
+RTO = 0.141139 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.135809
+Time at which Acknowledgements were received, T5 = 1320861367.135933
+Time at which connection was closed, T6 = 1320861367.135938
+No. of retransmissions = 2
+RTT = 0.123024 ms
+SRTT = 0.130740 ms
+RTO = 0.139642 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.135950
+Time at which Acknowledgements were received, T5 = 1320861367.136073
+Time at which connection was closed, T6 = 1320861367.136078
+No. of retransmissions = 2
+RTT = 0.123978 ms
+SRTT = 0.129895 ms
+RTO = 0.138050 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.136090
+Time at which Acknowledgements were received, T5 = 1320861367.136214
+Time at which connection was closed, T6 = 1320861367.136219
+No. of retransmissions = 2
+RTT = 0.123024 ms
+SRTT = 0.129036 ms
+RTO = 0.136656 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.136231
+Time at which Acknowledgements were received, T5 = 1320861367.136354
+Time at which connection was closed, T6 = 1320861367.136359
+No. of retransmissions = 2
+RTT = 0.127077 ms
+SRTT = 0.128791 ms
+RTO = 0.134934 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.136400
+Time at which Acknowledgements were received, T5 = 1320861367.136527
+Time at which connection was closed, T6 = 1320861367.136532
+No. of retransmissions = 2
+RTT = 0.123978 ms
+SRTT = 0.128189 ms
+RTO = 0.133850 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.136544
+Time at which Acknowledgements were received, T5 = 1320861367.136668
+Time at which connection was closed, T6 = 1320861367.136673
+No. of retransmissions = 2
+RTT = 0.123024 ms
+SRTT = 0.127544 ms
+RTO = 0.132919 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.136685
+Time at which Acknowledgements were received, T5 = 1320861367.136808
+Time at which connection was closed, T6 = 1320861367.136813
+No. of retransmissions = 2
+RTT = 0.123024 ms
+SRTT = 0.126979 ms
+RTO = 0.131999 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.136825
+Time at which Acknowledgements were received, T5 = 1320861367.136948
+Time at which connection was closed, T6 = 1320861367.136954
+No. of retransmissions = 2
+RTT = 0.122070 ms
+SRTT = 0.126365 ms
+RTO = 0.131204 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.136966
+Time at which Acknowledgements were received, T5 = 1320861367.137088
+Time at which connection was closed, T6 = 1320861367.137093
+No. of retransmissions = 2
+RTT = 0.123024 ms
+SRTT = 0.125947 ms
+RTO = 0.130307 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.137106
+Time at which Acknowledgements were received, T5 = 1320861367.137229
+Time at which connection was closed, T6 = 1320861367.137234
+No. of retransmissions = 2
+RTT = 0.123024 ms
+SRTT = 0.125582 ms
+RTO = 0.129492 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.137246
+Time at which Acknowledgements were received, T5 = 1320861367.137369
+Time at which connection was closed, T6 = 1320861367.137374
+No. of retransmissions = 2
+RTT = 0.123024 ms
+SRTT = 0.125262 ms
+RTO = 0.128754 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.137386
+Time at which Acknowledgements were received, T5 = 1320861367.137509
+Time at which connection was closed, T6 = 1320861367.137514
+No. of retransmissions = 2
+RTT = 0.122070 ms
+SRTT = 0.124863 ms
+RTO = 0.128180 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.137526
+Time at which Acknowledgements were received, T5 = 1320861367.137648
+Time at which connection was closed, T6 = 1320861367.137654
+No. of retransmissions = 2
+RTT = 0.121117 ms
+SRTT = 0.124395 ms
+RTO = 0.127702 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.137666
+Time at which Acknowledgements were received, T5 = 1320861367.137787
+Time at which connection was closed, T6 = 1320861367.137792
+No. of retransmissions = 2
+RTT = 0.119925 ms
+SRTT = 0.123836 ms
+RTO = 0.127295 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.137804
+Time at which Acknowledgements were received, T5 = 1320861367.137924
+Time at which connection was closed, T6 = 1320861367.137930
+No. of retransmissions = 2
+RTT = 0.120878 ms
+SRTT = 0.123466 ms
+RTO = 0.126707 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.137942
+Time at which Acknowledgements were received, T5 = 1320861367.138063
+Time at which connection was closed, T6 = 1320861367.138068
+No. of retransmissions = 2
+RTT = 0.123978 ms
+SRTT = 0.123530 ms
+RTO = 0.126073 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.138098
+Time at which Acknowledgements were received, T5 = 1320861367.138222
+Time at which connection was closed, T6 = 1320861367.138227
+No. of retransmissions = 2
+RTT = 0.120163 ms
+SRTT = 0.123109 ms
+RTO = 0.125753 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.138239
+Time at which Acknowledgements were received, T5 = 1320861367.138359
+Time at which connection was closed, T6 = 1320861367.138365
+No. of retransmissions = 2
+RTT = 0.120163 ms
+SRTT = 0.122741 ms
+RTO = 0.125368 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.138377
+Time at which Acknowledgements were received, T5 = 1320861367.138497
+Time at which connection was closed, T6 = 1320861367.138502
+No. of retransmissions = 2
+RTT = 7.122040 ms
+SRTT = 0.997653 ms
+RTO = 2.530720 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.138514
+Time at which Acknowledgements were received, T5 = 1320861367.145636
+Time at which connection was closed, T6 = 1320861367.145648
+No. of retransmissions = 3
+Retransmitting packet:TIMEOUT
+RTT = 0.173092 ms
+SRTT = 0.894583 ms
+RTO = 2.224756 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.145663
+Time at which Acknowledgements were received, T5 = 1320861367.145836
+Time at which connection was closed, T6 = 1320861367.145841
+No. of retransmissions = 3
+RTT = 0.130892 ms
+SRTT = 0.799122 ms
+RTO = 1.963809 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.145854
+Time at which Acknowledgements were received, T5 = 1320861367.145985
+Time at which connection was closed, T6 = 1320861367.145990
+No. of retransmissions = 3
+RTT = 0.131845 ms
+SRTT = 0.715712 ms
+RTO = 1.735194 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.146002
+Time at which Acknowledgements were received, T5 = 1320861367.146134
+Time at which connection was closed, T6 = 1320861367.146140
+No. of retransmissions = 3
+RTT = 0.125885 ms
+SRTT = 0.641984 ms
+RTO = 1.535620 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.146152
+Time at which Acknowledgements were received, T5 = 1320861367.146278
+Time at which connection was closed, T6 = 1320861367.146283
+No. of retransmissions = 3
+RTT = 0.126839 ms
+SRTT = 0.577591 ms
+RTO = 1.360506 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.146295
+Time at which Acknowledgements were received, T5 = 1320861367.146422
+Time at which connection was closed, T6 = 1320861367.146427
+No. of retransmissions = 3
+RTT = 0.124931 ms
+SRTT = 0.521008 ms
+RTO = 1.207214 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.146439
+Time at which Acknowledgements were received, T5 = 1320861367.146564
+Time at which connection was closed, T6 = 1320861367.146569
+No. of retransmissions = 3
+RTT = 0.125170 ms
+SRTT = 0.471528 ms
+RTO = 1.072772 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.146582
+Time at which Acknowledgements were received, T5 = 1320861367.146707
+Time at which connection was closed, T6 = 1320861367.146713
+No. of retransmissions = 3
+RTT = 0.125170 ms
+SRTT = 0.428234 ms
+RTO = 0.954933 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.146725
+Time at which Acknowledgements were received, T5 = 1320861367.146850
+Time at which connection was closed, T6 = 1320861367.146855
+No. of retransmissions = 3
+RTT = 0.138998 ms
+SRTT = 0.392079 ms
+RTO = 0.850374 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.146920
+Time at which Acknowledgements were received, T5 = 1320861367.147059
+Time at which connection was closed, T6 = 1320861367.147067
+No. of retransmissions = 3
+RTT = 0.130177 ms
+SRTT = 0.359341 ms
+RTO = 0.760353 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.147081
+Time at which Acknowledgements were received, T5 = 1320861367.147211
+Time at which connection was closed, T6 = 1320861367.147216
+No. of retransmissions = 3
+RTT = 0.124931 ms
+SRTT = 0.330040 ms
+RTO = 0.682076 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.147228
+Time at which Acknowledgements were received, T5 = 1320861367.147353
+Time at which connection was closed, T6 = 1320861367.147358
+No. of retransmissions = 3
+RTT = 0.124931 ms
+SRTT = 0.304402 ms
+RTO = 0.613296 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.147370
+Time at which Acknowledgements were received, T5 = 1320861367.147495
+Time at which connection was closed, T6 = 1320861367.147500
+No. of retransmissions = 3
+RTT = 0.127077 ms
+SRTT = 0.282236 ms
+RTO = 0.552697 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.147513
+Time at which Acknowledgements were received, T5 = 1320861367.147640
+Time at which connection was closed, T6 = 1320861367.147645
+No. of retransmissions = 3
+RTT = 0.125170 ms
+SRTT = 0.262603 ms
+RTO = 0.499806 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.147657
+Time at which Acknowledgements were received, T5 = 1320861367.147782
+Time at which connection was closed, T6 = 1320861367.147787
+No. of retransmissions = 3
+RTT = 0.124931 ms
+SRTT = 0.245394 ms
+RTO = 0.453412 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.147799
+Time at which Acknowledgements were received, T5 = 1320861367.147924
+Time at which connection was closed, T6 = 1320861367.147930
+No. of retransmissions = 3
+RTT = 0.124931 ms
+SRTT = 0.230336 ms
+RTO = 0.412701 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.147942
+Time at which Acknowledgements were received, T5 = 1320861367.148067
+Time at which connection was closed, T6 = 1320861367.148072
+No. of retransmissions = 3
+RTT = 0.126123 ms
+SRTT = 0.217309 ms
+RTO = 0.376880 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.148084
+Time at which Acknowledgements were received, T5 = 1320861367.148210
+Time at which connection was closed, T6 = 1320861367.148215
+No. of retransmissions = 3
+RTT = 0.125170 ms
+SRTT = 0.205792 ms
+RTO = 0.345625 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.148228
+Time at which Acknowledgements were received, T5 = 1320861367.148353
+Time at which connection was closed, T6 = 1320861367.148358
+No. of retransmissions = 3
+RTT = 0.124931 ms
+SRTT = 0.195684 ms
+RTO = 0.318248 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.148370
+Time at which Acknowledgements were received, T5 = 1320861367.148495
+Time at which connection was closed, T6 = 1320861367.148500
+No. of retransmissions = 3
+RTT = 0.125885 ms
+SRTT = 0.186959 ms
+RTO = 0.294150 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.148513
+Time at which Acknowledgements were received, T5 = 1320861367.148639
+Time at which connection was closed, T6 = 1320861367.148644
+No. of retransmissions = 3
+RTT = 0.132084 ms
+SRTT = 0.180100 ms
+RTO = 0.272497 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.148684
+Time at which Acknowledgements were received, T5 = 1320861367.148816
+Time at which connection was closed, T6 = 1320861367.148821
+No. of retransmissions = 3
+RTT = 0.126123 ms
+SRTT = 0.173353 ms
+RTO = 0.254458 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.148834
+Time at which Acknowledgements were received, T5 = 1320861367.148960
+Time at which connection was closed, T6 = 1320861367.148965
+No. of retransmissions = 3
+RTT = 0.125885 ms
+SRTT = 0.167419 ms
+RTO = 0.238632 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.148977
+Time at which Acknowledgements were received, T5 = 1320861367.149103
+Time at which connection was closed, T6 = 1320861367.149108
+No. of retransmissions = 3
+RTT = 0.131845 ms
+SRTT = 0.162973 ms
+RTO = 0.224164 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.149120
+Time at which Acknowledgements were received, T5 = 1320861367.149252
+Time at which connection was closed, T6 = 1320861367.149257
+No. of retransmissions = 3
+RTT = 0.125885 ms
+SRTT = 0.158337 ms
+RTO = 0.212343 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.149269
+Time at which Acknowledgements were received, T5 = 1320861367.149395
+Time at which connection was closed, T6 = 1320861367.149400
+No. of retransmissions = 3
+RTT = 0.125170 ms
+SRTT = 0.154191 ms
+RTO = 0.201951 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.149412
+Time at which Acknowledgements were received, T5 = 1320861367.149537
+Time at which connection was closed, T6 = 1320861367.149542
+No. of retransmissions = 3
+RTT = 0.127077 ms
+SRTT = 0.150802 ms
+RTO = 0.192553 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.149554
+Time at which Acknowledgements were received, T5 = 1320861367.149681
+Time at which connection was closed, T6 = 1320861367.149686
+No. of retransmissions = 3
+RTT = 0.125885 ms
+SRTT = 0.147687 ms
+RTO = 0.184451 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.149698
+Time at which Acknowledgements were received, T5 = 1320861367.149824
+Time at which connection was closed, T6 = 1320861367.149829
+No. of retransmissions = 3
+RTT = 0.124931 ms
+SRTT = 0.144843 ms
+RTO = 0.177393 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.149841
+Time at which Acknowledgements were received, T5 = 1320861367.149966
+Time at which connection was closed, T6 = 1320861367.149971
+No. of retransmissions = 3
+RTT = 0.124216 ms
+SRTT = 0.142264 ms
+RTO = 0.171189 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.149984
+Time at which Acknowledgements were received, T5 = 1320861367.150108
+Time at which connection was closed, T6 = 1320861367.150113
+No. of retransmissions = 3
+RTT = 0.130892 ms
+SRTT = 0.140843 ms
+RTO = 0.165024 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.150125
+Time at which Acknowledgements were received, T5 = 1320861367.150256
+Time at which connection was closed, T6 = 1320861367.150261
+No. of retransmissions = 3
+RTT = 0.125885 ms
+SRTT = 0.138973 ms
+RTO = 0.160381 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.150273
+Time at which Acknowledgements were received, T5 = 1320861367.150399
+Time at which connection was closed, T6 = 1320861367.150404
+No. of retransmissions = 3
+RTT = 0.126123 ms
+SRTT = 0.137367 ms
+RTO = 0.156234 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.150416
+Time at which Acknowledgements were received, T5 = 1320861367.150542
+Time at which connection was closed, T6 = 1320861367.150566
+No. of retransmissions = 3
+RTT = 0.127077 ms
+SRTT = 0.136081 ms
+RTO = 0.152482 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.150579
+Time at which Acknowledgements were received, T5 = 1320861367.150706
+Time at which connection was closed, T6 = 1320861367.150711
+No. of retransmissions = 3
+RTT = 0.123024 ms
+SRTT = 0.134449 ms
+RTO = 0.149605 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.150723
+Time at which Acknowledgements were received, T5 = 1320861367.150846
+Time at which connection was closed, T6 = 1320861367.150851
+No. of retransmissions = 3
+RTT = 0.122070 ms
+SRTT = 0.132901 ms
+RTO = 0.146977 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.150863
+Time at which Acknowledgements were received, T5 = 1320861367.150985
+Time at which connection was closed, T6 = 1320861367.150990
+No. of retransmissions = 3
+RTT = 0.123024 ms
+SRTT = 0.131667 ms
+RTO = 0.144384 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.151002
+Time at which Acknowledgements were received, T5 = 1320861367.151125
+Time at which connection was closed, T6 = 1320861367.151135
+No. of retransmissions = 3
+RTT = 0.123024 ms
+SRTT = 0.130586 ms
+RTO = 0.142015 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.151147
+Time at which Acknowledgements were received, T5 = 1320861367.151270
+Time at which connection was closed, T6 = 1320861367.151275
+No. of retransmissions = 3
+RTT = 0.123024 ms
+SRTT = 0.129641 ms
+RTO = 0.139867 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.151287
+Time at which Acknowledgements were received, T5 = 1320861367.151410
+Time at which connection was closed, T6 = 1320861367.151415
+No. of retransmissions = 3
+RTT = 0.123024 ms
+SRTT = 0.128814 ms
+RTO = 0.137931 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.151428
+Time at which Acknowledgements were received, T5 = 1320861367.151551
+Time at which connection was closed, T6 = 1320861367.151556
+No. of retransmissions = 3
+RTT = 0.125170 ms
+SRTT = 0.128358 ms
+RTO = 0.135993 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.151568
+Time at which Acknowledgements were received, T5 = 1320861367.151693
+Time at which connection was closed, T6 = 1320861367.151698
+No. of retransmissions = 3
+RTT = 0.122070 ms
+SRTT = 0.127572 ms
+RTO = 0.134674 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.151710
+Time at which Acknowledgements were received, T5 = 1320861367.151832
+Time at which connection was closed, T6 = 1320861367.151838
+No. of retransmissions = 3
+RTT = 0.122070 ms
+SRTT = 0.126885 ms
+RTO = 0.133414 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.151850
+Time at which Acknowledgements were received, T5 = 1320861367.151972
+Time at which connection was closed, T6 = 1320861367.151977
+No. of retransmissions = 3
+RTT = 0.121117 ms
+SRTT = 0.126164 ms
+RTO = 0.132323 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.151989
+Time at which Acknowledgements were received, T5 = 1320861367.152110
+Time at which connection was closed, T6 = 1320861367.152116
+No. of retransmissions = 3
+RTT = 0.123024 ms
+SRTT = 0.125771 ms
+RTO = 0.131077 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.152132
+Time at which Acknowledgements were received, T5 = 1320861367.152255
+Time at which connection was closed, T6 = 1320861367.152260
+No. of retransmissions = 3
+RTT = 0.124931 ms
+SRTT = 0.125666 ms
+RTO = 0.129829 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.152291
+Time at which Acknowledgements were received, T5 = 1320861367.152416
+Time at which connection was closed, T6 = 1320861367.152422
+No. of retransmissions = 3
+RTT = 0.122786 ms
+SRTT = 0.125306 ms
+RTO = 0.129059 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.152434
+Time at which Acknowledgements were received, T5 = 1320861367.152557
+Time at which connection was closed, T6 = 1320861367.152563
+No. of retransmissions = 3
+RTT = 0.036001 ms
+SRTT = 0.114143 ms
+RTO = 0.136493 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.152575
+Time at which Acknowledgements were received, T5 = 1320861367.152611
+Time at which connection was closed, T6 = 1320861367.152617
+No. of retransmissions = 3
+RTT = 0.006199 ms
+SRTT = 0.100650 ms
+RTO = 0.141025 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.152629
+Time at which Acknowledgements were received, T5 = 1320861367.152635
+Time at which connection was closed, T6 = 1320861367.152640
+No. of retransmissions = 3
+RTT = 0.003815 ms
+SRTT = 0.088546 ms
+RTO = 0.140010 ms
+
+
+Time at which connection was established, T1 = 1320861367.130262
+Time at which segments were send, T2 = 1320861367.152651
+Time at which Acknowledgements were received, T5 = 1320861367.152655
+Time at which connection was closed, T6 = 1320861367.152660
+No. of retransmissions = 3
+close sockets and exit

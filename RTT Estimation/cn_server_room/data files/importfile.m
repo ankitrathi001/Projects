@@ -1,0 +1,10 @@
+function importfile(fileToRead1)
+rawData1 = importdata(fileToRead1);
+hold on
+plot(rawData1(:,2),'color','b')
+plot(rawData1(:,3),'color','r')
+plot(rawData1(:,4),'color','g')
+hold off
+
+end
+
